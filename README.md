@@ -3,7 +3,7 @@
 [![website](https://img.shields.io/website?label=fabioDeveloper.com&style=for-the-badge&url=https://fabiodeveloper.com)](https://www.fabiodeveloper.com/)
 [![blog](https://img.shields.io/website?label=CriarProgramas.com&style=for-the-badge&url=http://criarprogramas.com)](http://criarprogramas.com/)
 
-## I'm an Software Engineer, Gamer, Cyclist, and Zen practitioner!!!
+## I'm a Software Engineer, Gamer, Cyclist, and Zen practitioner!!!
 
 - 🔭 I'm a developer for long time (over 10 years)
 - 🌱 I’m currently learning everything about Software Architecture🤣
