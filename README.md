@@ -10,6 +10,7 @@
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2021 Goals: Contribute more to Open Source projects and write more in my [blog]
 - ⚡ Fun fact: I love to nature and I'm music producer (search to Moz 2)
+- 🎧 Listen my podcast about world of the software development [click here] (pt-br)
 
 ### Connect with me:
 
@@ -33,3 +34,4 @@
 [instagram]: https://instagram.com/mrfabiogeek
 [linkedin]: https://www.linkedin.com/in/fabio-almeida100
 [about.me]: https://about.me/fabioalmeida.dsn
+[click here]: https://open.spotify.com/show/60S25UENQ8oqboCk8o24xd?si=9pjEhTbyQ9SY7UT9TWKzPg
