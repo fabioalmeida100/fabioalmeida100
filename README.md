@@ -22,13 +22,6 @@
 <br />
 
 ---
-
-### GitHub Stats
-
-  <img align="left" alt="fabioDeveloper's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=fabioalmeida100&show_icons=true&hide_border=true" />
-
-</details>
-
 [website]: http://fabiodeveloper.com/
 [blog]: http://criarprogramas.com
 [instagram]: https://instagram.com/mrfabiogeek
