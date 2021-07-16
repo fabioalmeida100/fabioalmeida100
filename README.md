@@ -1,7 +1,7 @@
 ### Hi there, I'm Fábio - aka [Fabin][website] 👋
 
 [![website](https://img.shields.io/website?label=fabioDeveloper.com&style=for-the-badge&url=https://fabiodeveloper.com)](https://www.fabiodeveloper.com/)
-[![blog](https://img.shields.io/website?label=CriarProgramas.com&style=for-the-badge&url=http://criarprogramas.com)](http://criarprogramas.com/)
+[![blog](https://img.shields.io/website?label=CriarProgramas.com&style=for-the-badge&url=https://criarprogramas.com)](https://criarprogramas.com/)
 
 ## I'm a Software Engineer, Gamer, Cyclist, and Zen practitioner!!!
 
