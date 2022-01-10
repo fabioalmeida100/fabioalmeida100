@@ -5,12 +5,12 @@
 
 ## I'm a Software Engineer, Gamer, Cyclist and Zen practitioner!!!
 
-- 🔭 I'm a developer for long time (over 10 years)
-- 🌱 I’m currently learning everything about Software Architecture🤣
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2021 Goals: Contribute more to Open Source projects and write more in my [blog]
+- 🔭 I'm a developer for long time (almost 15 years)
+- 🌱 I'm currently learning everything about good practices around microservice implementation
+- 👯 I’m looking to collaborate with open source projects around the world
+- 🥅 2022 Goals: contribute open source projects and finish 2ª season of my podcast CallFé Dev
 - ⚡ Fun fact: I love to nature and I'm music producer (search to Moz 2)
-- 🎧 Listen my podcast about world of the software development [click here] (pt-br)
+- 🎧 Listen my podcast about world of the software development: CallFé Dev [click here] (pt-br)
 
 ### Connect with me:
 
