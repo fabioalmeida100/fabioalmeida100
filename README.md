@@ -22,8 +22,8 @@
 <br />
 
 ---
-[website]: http://fabiodeveloper.com/
-[blog]: http://criarprogramas.com
+[website]: https://fabiodeveloper.com/
+[blog]: https://criarprogramas.com
 [instagram]: https://instagram.com/mrfabiogeek
 [linkedin]: https://www.linkedin.com/in/fabio-almeida100
 [about.me]: https://about.me/fabioalmeida.dsn
