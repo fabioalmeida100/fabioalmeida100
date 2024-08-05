@@ -8,7 +8,6 @@
 - 🔭 I'm a developer for long time (almost 15 years)
 - 🌱 I'm currently learning everything about good practices around microservice implementation
 - 👯 I’m looking to collaborate with open source projects around the world
-- 🥅 2023 Goals: create and contribute open source projects
 - ⚡ Fun fact: I love to nature and I'm music producer (search to Moz 2)
 - 🎧 Listen my podcast about world of the software development: CallFé Dev [click here] (pt-br)
 
