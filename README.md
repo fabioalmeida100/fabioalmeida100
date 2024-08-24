@@ -5,7 +5,7 @@
 
 ## I'm a Software Engineer, Gamer, Cyclist and Zen practitioner!!!
 
-- 🔭 I'm a developer for long time (almost 15 years)
+- 🔭 I'm a developer for long time (over 15 years)
 - 🌱 I'm currently learning everything about good practices around microservice implementation
 - 👯 I’m looking to collaborate with open source projects around the world
 - ⚡ Fun fact: I love to nature and I'm music producer (search to Moz 2)
