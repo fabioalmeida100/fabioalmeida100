@@ -15,7 +15,6 @@
 
 [<img align="left" alt="fabioDeveloper | fabioDeveloper" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="fabioDeveloper | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="fabioDeveloper | About.me" width="22px" src="https://icon-icons.com/icons2/2389/PNG/48/about_me_logo_icon_145530.png" />][about.me]
 
 <br />
 
@@ -23,5 +22,4 @@
 [website]: https://fabiodeveloper.com
 [blog]: https://criarprogramas.com
 [linkedin]: https://www.linkedin.com/in/fabio-almeida100
-[about.me]: https://about.me/fabioalmeida.dsn
 [click here]: https://open.spotify.com/show/60S25UENQ8oqboCk8o24xd?si=9pjEhTbyQ9SY7UT9TWKzPg
